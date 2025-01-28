@@ -1,9 +1,7 @@
----
-title: "CampusNest: Cracking Boston's Housing Code"
-author: "Shreyashri Athani & Sudarshan Paranjape"
-date: "`r Sys.Date()`"
-output: html_document
----
+
+# title: "CampusNest: Cracking Boston's Housing Code"
+
+
 
 # Overview
 
