@@ -1,5 +1,5 @@
 
-# CampusNest: Cracking Boston's Student Housing Code
+# Zillow CampusNest: Cracking Boston's Student Housing Code
 
 This project simplifies the housing search process in Boston by optimizing recommendations based on user preferences like proximity to landmarks, budget, and living preferences. Through data analysis and visualization tools, we developed a user-friendly dashboard to enhance property search and decision-making.
 
