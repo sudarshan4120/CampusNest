@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 
 # Zillow CampusNest: Cracking Boston's Student Housing Code
 
